@@ -1,0 +1,12 @@
+Plinko Game Checklist
+
+1. Does the scene implement lighting? Yes / No
+2. Do the textuers in the scene render? Yes / No
+3. Does the score keep properly? Yes / No
+4. Do the buttons work? Yes / No
+
+Novel Feature Checklist (Physics-based collision)
+1. Does the ball obey gravity? Yes / No
+2. Does the ball bounce off of the wall borders? Yes / No
+3. Does the ball bounce off of the pegs? Yes / No
+4. Does the ball bounce in the right directions? Yes / No
